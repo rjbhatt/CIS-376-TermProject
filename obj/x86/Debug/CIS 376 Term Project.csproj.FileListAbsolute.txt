@@ -1,0 +1,2 @@
+C:\Users\Rakshith\Desktop\CIS 376 Term Project\CIS-376-TermProject\obj\x86\Debug\CIS 376 Term Project.csprojResolveAssemblyReference.cache
+C:\Users\Rakshith\Desktop\CIS 376 Term Project\CIS-376-TermProject\obj\x86\Debug\CIS 376 Term Project.csproj.CoreCompileInputs.cache
